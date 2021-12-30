@@ -1,0 +1,32 @@
+.image-width{
+    width:180px;
+}
+.carousel-height{
+    height:500px;
+}
+.image-size{
+    width:25%;
+}
+.subscribe{
+    height:300px;
+    background-color: #FFCA2C;
+}
+button.sub-btn{
+    display:block;
+    margin: auto;
+}
+.center{
+    text-align: center;
+}
+.footer-container{
+    padding: 20px 0;
+    text-align: center;
+}
+a, .footer-design{
+    text-decoration: none;
+    padding:0 5px;
+    transition: 0.5s;
+}
+.link-light:focus, .link-light:hover{
+    color:#FFCA2C !important;
+}
